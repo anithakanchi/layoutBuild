@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.layout-container {
+  background-color: #475569;
+  height: 25vh;
+  color: white;
+  padding-left: 30px;
+}
+.input-container {
+  padding-bottom: 10px;
+}
+#content {
+  margin-right: 10px;
+}
+#left {
+  margin-right: 10px;
+}
+#right {
+  margin-right: 10px;
+}
